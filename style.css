@@ -1,0 +1,18 @@
+* {
+    background-color: rgb(238, 238, 238);
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+
+
+p {color: white;
+    
+}
